@@ -1,0 +1,23 @@
+.app input, .app button {
+
+margin: 20px;
+padding: 10px 20px;
+border: 20px soli gray;
+background-color: #fff;
+transition: 0.3s;
+}
+
+.app button {
+  cursor: pointer;
+}
+
+
+.app button:hover{
+  background-color: #000;
+  color: white;
+  border-color: black;
+}
+
+.app h1 {
+  text-align: center;
+}
